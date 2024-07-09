@@ -1,2 +1,7 @@
-name,time_period,value,unit
-income_tax,2024,200000000000,gbp
+name,unit,value,time_period
+example,gbp,1,2024
+example,gbp,2,2025
+example,gbp,3,2026
+example,gbp,4,2027
+example,gbp,5,2028
+example,gbp,6,2029
